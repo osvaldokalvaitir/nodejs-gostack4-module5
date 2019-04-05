@@ -1,0 +1,17 @@
+{
+  "name": "node-modulo5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/osvaldokalvaitir/node-modulo5.git",
+  "author": "Osvaldo Kalvaitir Filho <osvaldokalvaitir@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "jest": "^24.7.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

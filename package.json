@@ -6,12 +6,20 @@
   "author": "Osvaldo Kalvaitir Filho <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "pg": "^7.9.0",
+    "sequelize": "^5.2.13"
   },
   "devDependencies": {
-    "jest": "^24.7.1"
+    "jest": "^24.7.1",
+    "nodemon": "^1.18.11",
+    "sequelize-cli": "^5.4.0",
+    "sqlite3": "^4.0.6"
   },
   "scripts": {
-    "test": "jest"
+    "test": "NODE_ENV=test jest",
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js --ignore __tests__"
   }
 }

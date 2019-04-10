@@ -34,6 +34,10 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
 
+- [factory-girl](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/factory-girl.md)
+
+- [Faker.js](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/faker.md)
+
 - [Jest](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/jest.md)
 
 - [Json Web Token](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/jsonwebtoken.md)

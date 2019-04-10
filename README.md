@@ -43,3 +43,5 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [sequelize-cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/sequelize-cli.md)
 
 - [sqlite3](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/sqlite3.md)
+
+- [SuperTest](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/supertest.md)

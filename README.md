@@ -10,21 +10,57 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação usando Node.js, Express e Jest.
+Aplicação usando Node.js, Express, Jest, SuperTest, Factory Girl, Faker.js, Sequelize e Nodemailer.
 
 ## Índice
+
+- [Rotas](#rotas)
 
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
 
+  - [Instalação do Projeto](#instalação-do-projeto)
+
+  - [Execução do Projeto](#execução-do-projeto)
+
+  - [Execução do Projeto para Desenvolvimento](#execução-do-projeto-para-desenvolvimento)
+
+  - [Execução dos Testes de Projeto](#execução-dos-testes-de-projeto)
+
   - [Bibliotecas](#bibliotecas)
+
+## Rotas
+
+- Projetos
+
+  - Lista todos os projetos
+  - Adiciona novos projetos
+  - Lista somente dados de um projeto
+  - Edita dados de projetos existentes
+  - Exclui projetos existentes
 
 ## Desenvolvimento
 
 ### Configurações Iniciais
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga as Configurações Iniciais.
+
+### Instalação do Projeto
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Instalação de Projeto.
+
+### Execução do Projeto
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
+
+### Execução do Projeto para Desenvolvimento
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto para Desenvolvimento.
+
+### Execução dos Testes de Projeto
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Testes de Projeto.
 
 ### Bibliotecas
 

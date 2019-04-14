@@ -14,8 +14,6 @@ Aplicação usando Node.js, Express, Jest, SuperTest, Factory Girl, Faker.js, Se
 
 ## Índice
 
-- [Rotas](#rotas)
-
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
@@ -28,17 +26,11 @@ Aplicação usando Node.js, Express, Jest, SuperTest, Factory Girl, Faker.js, Se
 
   - [Execução dos Testes de Projeto](#execução-dos-testes-de-projeto)
 
+- [Utilizados no Projeto](#utilizados-no-projeto)
+
   - [Bibliotecas](#bibliotecas)
 
-## Rotas
-
-- Projetos
-
-  - Lista todos os projetos
-  - Adiciona novos projetos
-  - Lista somente dados de um projeto
-  - Edita dados de projetos existentes
-  - Exclui projetos existentes
+  - [APIs](#apis)
 
 ## Desenvolvimento
 
@@ -61,6 +53,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Execução dos Testes de Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Testes de Projeto.
+
+## Utilizados no Projeto
 
 ### Bibliotecas
 
@@ -91,3 +85,17 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [sqlite3](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/sqlite3.md)
 
 - [SuperTest](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/supertest.md)
+
+### APIs
+
+- **Interna**
+
+  - **Rotas**
+
+    - Sessões
+
+      - Adiciona novas sessões
+
+    - Dashboard
+
+      - Redireciona para o dashboard

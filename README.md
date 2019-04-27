@@ -20,10 +20,6 @@ Testes Automatizados usando Node.js, Express, Jest, SuperTest, Factory Girl, Fak
 
   - [Instalação do Projeto](#instalação-do-projeto)
 
-  - [Execução do Projeto](#execução-do-projeto)
-
-  - [Execução do Projeto para Desenvolvimento](#execução-do-projeto-para-desenvolvimento)
-
   - [Execução dos Testes de Projeto](#execução-dos-testes-de-projeto)
 
 - [Utilizados no Projeto](#utilizados-no-projeto)
@@ -41,14 +37,6 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Instalação do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Instalação de Projeto.
-
-### Execução do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
-
-### Execução do Projeto para Desenvolvimento
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto para Desenvolvimento.
 
 ### Execução dos Testes de Projeto
 

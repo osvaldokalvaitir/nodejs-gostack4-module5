@@ -16,11 +16,11 @@ Testes Automatizados usando Node.js, Express, Jest, SuperTest, Factory Girl, Fak
 
 - [Desenvolvimento](#desenvolvimento)
 
-  - [Configurações Iniciais](#configurações-iniciais)
+  - [Configuração do Ambiente](#configuração-do-ambiente)
 
   - [Instalação do Projeto](#instalação-do-projeto)
 
-  - [Execução dos Testes de Projeto](#execução-dos-testes-de-projeto)
+  - [Execução do Projeto](#execução-do-projeto)
 
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
@@ -30,15 +30,15 @@ Testes Automatizados usando Node.js, Express, Jest, SuperTest, Factory Girl, Fak
 
 ## Desenvolvimento
 
-### Configurações Iniciais
+### Configuração do Ambiente
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configurações Iniciais`.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
 
 ### Instalação do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
 
-### Execução dos Testes de Projeto
+### Execução do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Execução de Testes de Projeto`.
 

@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Testes Automatizados usando Node.js, Express, Jest, SuperTest, Factory Girl, Faker.js, Sequelize e Nodemailer.
+Testes Automatizados e TDD usando Node.js, Express, Jest, SuperTest, Factory Girl, Faker.js, Sequelize e Nodemailer.
 
 ## Índice
 

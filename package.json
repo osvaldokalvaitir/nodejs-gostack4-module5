@@ -1,8 +1,8 @@
 {
-  "name": "node-modulo5",
+  "name": "nodejs-modulo5",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/osvaldokalvaitir/node-modulo5.git",
+  "repository": "https://github.com/osvaldokalvaitir/nodejs-modulo5.git",
   "author": "Osvaldo Kalvaitir Filho <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "dependencies": {

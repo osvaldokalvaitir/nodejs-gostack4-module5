@@ -1,89 +1,57 @@
-# Node.js - Módulo 5
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-modulo5/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-modulo5.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-modulo5.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-modulo5.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-modulo5.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-modulo5.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-modulo5.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  Node.js - GoStack 4 Module 5
+</h3>
 
-Testes Automatizados e TDD usando Node.js, Express, Jest, SuperTest, Factory Girl, Faker.js, Sequelize e Nodemailer.
+<p align="center">
+  :test_tube: Automated Testing and TDD using Node.js, Express, Jest, SuperTest, Factory Girl, Faker.js, Sequelize and Nodemailer
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-gostack4-module5.svg?color=00A83A">
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-gostack4-module5.svg?color=00A83A">
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Execução do Projeto](#execução-do-projeto)
+<p align="center">
+  <a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+## :wrench: Install and run
 
-  - [Bibliotecas](#bibliotecas)
+Open terminal:
 
-  - [APIs](#apis)
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/nodejs-gostack4-module5
 
-## Desenvolvimento
+# Entry in folder
+cd nodejs-gostack4-module5
 
-### Configuração do Ambiente
+# Install deps with npm or yarn
+npm install | yarn
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+# Run tests
+npm test | yarn test
+```
 
-### Instalação do Projeto
+## :memo: License
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-### Execução do Projeto
+---
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Execução de Testes de Projeto`.
-
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [bcrypt.js](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/bcryptjs.md)
-
-- [dotenv](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md)
-
-- [Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
-
-- [factory-girl](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/factory-girl.md)
-
-- [Faker.js](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/faker.md)
-
-- [Jest](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/jest.md)
-
-- [Json Web Token](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/jsonwebtoken.md)
-
-- [Nodemailer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemailer.md)
-
-- [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
-
-- [pg](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pg.md)
-
-- [Sequelize](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/sequelize.md)
-
-- [sequelize-cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/sequelize-cli.md)
-
-- [sqlite3](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/sqlite3.md)
-
-- [SuperTest](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/supertest.md)
-
-### APIs
-
-- **Interna**
-
-  - **Rotas**
-
-    - Sessões
-
-      - Adiciona novas sessões
-
-    - Dashboard
-
-      - Redireciona para o dashboard
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>

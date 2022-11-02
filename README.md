@@ -43,7 +43,7 @@ cd nodejs-gostack4-module5
 npm install | yarn
 
 # Run tests
-npm test | yarn test
+npm run test | yarn test
 ```
 
 ## :memo: License
